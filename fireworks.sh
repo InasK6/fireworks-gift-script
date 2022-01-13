@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 rows=$(tput lines)
 cols=$(tput cols)
@@ -151,16 +151,10 @@ sleep 3
 
 clear
 center_colorstr $((rows / 2 - 1)) red "Une petite fée est entrée dans votre foyer!"
-center_colorstr $((rows / 2 + 1)) red "Prenez-en grand soin"
-center_colorstr $((rows / 2 + 3)) red "Et elle saura faire de chaque jour un émerveillement sans cesse renouvelé "
-center_colorstr $((rows / 2 + 4)) red "Félicitations à votre famille !"
-center_colorstr $((rows / 2 + 6)) red "Promotion SAR 2020-2022"
-center_colorstr $((rows / 2 + 7)) red "Aliocha, Amandine, Aymeric, Baptiste, Haitham, Ilias, Inas, Jonathan, Lotfi, Mohand, Nagulan, Namrata, Nell, Radia, Richard "
+center_colorstr $((rows / 2 + 1)) red "Prenez-en grand soin, et elle saura faire de chaque jour un émerveillement sans cesse renouvelé !"
+center_colorstr $((rows / 2 + 3)) red "Promotion SAR 2020-2022 - Aliocha, Amandine, Aymeric, Baptiste, Haitham, Ilias, Inas, Jonathan, Lotfi, Mohand, Nagulan, Namrata, Nell, Radia, Richard"
+
 echo
 
-sleep 5
+sleep 30
 clear
-
-
-# vim: tabstop=4: shiftwidth=4: noexpandtab:
-# kate: tab-width 4; indent-width 4; replace-tabs false;
