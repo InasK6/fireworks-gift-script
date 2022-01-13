@@ -1,4 +1,4 @@
-#Bash script displaying fireworks on a terminal
+# Bash script displaying fireworks on a terminal
 ![](img/fireworks.png)
 ## Commands
 execute commands:
@@ -7,11 +7,11 @@ cd fireworks-gift-script
 ./fireworks.sh
 
 
-##Authors
+## Authors
 Amandine Ta, Inas KACI, Nell Flaharty
 
-##Idea: 
+## Idea: 
 Jonathan Filin
 
-##source:
+## source:
 https://www.linuxjournal.com/content/fireworks-command-line
