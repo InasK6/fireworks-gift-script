@@ -6,6 +6,8 @@ execute commands:
 * cd fireworks-gift-script
 * ./fireworks.sh
 
+## Result
+![](img/terminal.png)
 
 ## Authors
 Amandine Ta, Inas KACI, Nell Flaharty
